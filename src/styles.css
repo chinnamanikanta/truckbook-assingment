@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: gray;
+}
+.HeaderComponent {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+  background-color: blue;
+}
+
+.headline {
+  text-align: left;
+}
