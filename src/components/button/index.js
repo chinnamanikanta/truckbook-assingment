@@ -5,7 +5,7 @@ const Button = ({ buttonText, emitEvent }) => {
   return (
     <div className="buttonComponent" data-test="buttonComponent">
       <button type="button" onClick={emitEvent}>
-        {buttonText}
+        {buttonText} mani
       </button>
       ;
     </div>
